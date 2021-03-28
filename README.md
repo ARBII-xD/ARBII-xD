@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Areeb Bin Azim</h1>
-<h3 align="center">A passionate Python programmer, Web Developer and an aspiring Data Scientist.</h3>
+<h1 align="center">Hi there👋, I'm Areeb Bin Azim</h1>
+<h3 align="center">A passionate Python Programmer, Web Developer and an aspiring Data Scientist.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arbii-xd" alt="arbii-xd" /></a> </p>
 
