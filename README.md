@@ -1,11 +1,11 @@
 <h1 align="center">Hi there👋, I'm Areeb Bin Azim</h1>
-<h3 align="center">A passionate Python Programmer, Web Developer and an aspiring Data Scientist.🙂</h3>
+<h3 align="center">A passionate Python Programmer, MERN stack Developer and an aspiring Data Scientist.🙂</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arbii-xd" alt="arbii-xd" /></a> </p>
 
 - 🔭 I’m currently working on **Back-end Web programming on Node.js**
 
-- 🌱 I’m currently learning **Django/Node.js/React.js 🔥**
+- 🌱 I’m currently learning **Django/MongoDB/Node.js/React.js 🔥**
 
 - 👯 I’m looking to collaborate on **projects related to Python programming and Web Development**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/arbii_xd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arbii_xd" height="30" width="40" /></a>
+<a href="https://twitter.com/arbii_xd?lang=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arbii_xd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/areebbinazim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="areebbinazim" height="30" width="40" /></a>
 <a href="https://fb.com/areeb bin azim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="areeb bin azim" height="30" width="40" /></a>
 <a href="https://instagram.com/areeb_bin_azim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="areeb_bin_azim" height="30" width="40" /></a>
