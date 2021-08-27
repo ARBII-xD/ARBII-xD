@@ -1,5 +1,17 @@
-<h1 align="center">Hi 👋, I'm Areeb Bin Azim</h1>
-<h3 align="center">A passionate Python and JavaScript Developer and an aspiring Data Scientist.</h3>
+<h3 align="center">Hi there! I myself Areeb Bin Azim</h3>
+<h2>A passionate Python and JavaScript Developer and an aspiring Data Scientist.</h2>
+
+- 🔭 I’m currently working on **Back-end programming on MERN Stack**
+
+- 🌱 I’m currently learning **Django/ NodeJS/ ReactJS 🔥**
+
+- 👯 I’m looking to collaborate on **projects related to Python programming and Web Development**
+
+- 💬 Ask me about **any querry, I'll definitely help you out if I know that 🙂**
+
+- 📫 How to reach me **areebbinazim360@gmail.com**
+
+- ⚡ Hobbies **E-Gaming 🔥**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
