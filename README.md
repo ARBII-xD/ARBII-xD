@@ -1,5 +1,5 @@
-<h3 align="center">Hi there! I myself Areeb Bin Azim</h3>
-<h2>A passionate Python and JavaScript Developer and an aspiring Data Scientist.</h2>
+<h2 align="center">Hi there, I'm Areeb Bin Azim 👋</h2>
+<h3>A passionate Python and JavaScript Developer and an aspiring Data Scientist.</h3>
 
 - 🔭 I’m currently working on **Back-end programming on MERN Stack**
 
