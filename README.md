@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, I'm Areeb Bin Azim 👋</h2>
 <h3>A passionate Python and JavaScript Developer and an aspiring Data Scientist.</h3>
 
-- 🔭 I’m currently enrolled in the 5th semester of  *Computer Systems Engineering @NEDUET* 
+- 🔭 I’m currently enrolled in the 5th semester of  **Computer Systems Engineering @NEDUET**
 
 - 🌱 I’m currently learning **MERN Stack Development 🔥**
 
