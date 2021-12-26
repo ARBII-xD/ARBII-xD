@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **areebbinazim360@gmail.com**
 
-- ⚡ Hobbies **E-Gaming 🔥**
+- ⚡ Hobbies **E-Gaming | Articles Reading | Socializing 🔥**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
