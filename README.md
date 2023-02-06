@@ -1,17 +1,17 @@
-<h2 align="center">Hi there, I'm Areeb Bin Azim 👋</h2>
-<h3>A passionate Python and JavaScript Developer and an aspiring Data Scientist.</h3>
+<h3>Hello!</h3>
+<p>I'm Areeb Bin Azim, a Computer Systems Engineer focused on software development living in Karachi, Pakistan.</p>
 
-- 🔭 I’m currently enrolled in the 5th semester of  **Computer Systems Engineering @NEDUET**
-
-- 🌱 I’m currently learning **MERN Stack Development 🔥**
-
-- 👯 I’m looking to collaborate on **projects related to Python programming and Web Development**
-
-- 💬 Ask me about **any querry, I'll definitely help you out if I know that 🙂**
-
-- 📫 How to reach me **areebbinazim360@gmail.com**
-
-- ⚡ Hobbies **E-Gaming | Articles Reading | Socializing 🔥**
+<h3>My Projects</h3>
+<ul dir="auto">
+  <li>
+    <a href="">Crypto Now</a>
+    , a simple web application which shows the insights of cryptocurrencies in real time.
+</li>
+  <li>
+    <a href="">CGPA Predictor</a>
+    , This project compares 2 ML models for predicting final CGPA using grade point averages from 1st, 2nd, and 3rd Year.
+  </li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
