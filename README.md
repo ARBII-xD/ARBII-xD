@@ -4,22 +4,22 @@
 <h3>My Projects</h3>
 <ul dir="auto">
   <li>
-    <a href="">Crypto Now</a>
+    <a href="https://github.com/areeb90/Crypto-Now">Crypto Now</a>
     , a simple web application which shows the insights of cryptocurrencies in real time.   
     
 </li>
   <li>
-    <a href="">CGPA Predictor</a>
+    <a href="https://github.com/areeb90/Prediction-of-Cumulative-Grade-Point-Average-Machine-Learning-CEP">CGPA Predictor</a>
     , This project compares 2 ML models for predicting final CGPA using grade point averages from 1st, 2nd, and 3rd Year.   
     
   </li>
   <li>
-    <a href="">Study-Ease</a>
+    <a href="https://github.com/areeb90/Study-Ease">Study-Ease</a>
     , This website is designed to assist students (Intermediate) also check their career interest through multiple quiz assessments. 
     
   </li>
   <li>
-    <a href="">Homofy</a>
+    <a href="https://github.com/areeb90/HOMOFY-eCommerce-web-application">Homofy</a>
     , is an inventory management website for online shopping with a database to store product information and user/admin management.
   </li>
 </ul>
