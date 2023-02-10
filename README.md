@@ -18,10 +18,6 @@
   <li>
     <a href="">Homofy</a>
     , is an inventory management website for online shopping with a database to store product information and user/admin management.
-
-
-
- .
   </li>
 </ul>
 
