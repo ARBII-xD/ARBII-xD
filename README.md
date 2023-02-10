@@ -24,6 +24,22 @@
   </li>
 </ul>
 
+<br/>
+<h3>My Bachelor's Degree Courses at NED University</h3>
+<ul>
+<li>CS-115 Programming Fundamentals</li>
+<li>CS-116 Object Oriented Programming</li>
+<li>CS-218 Data Structures and Algorithms</li>
+<li>CS-222 Database Management System</li>
+<li>CS-326 Software Engineering</li>
+<li>CS-323 Artificial Intelligence</li>
+<li>CS-329 Operating Systems</li>
+<li>CS-324 Machine Learning</li>
+<li>CS-328 Computer Architecture</li>
+<li>CS-433 Internet Computing</li>
+</ul>
+
+
 <br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
