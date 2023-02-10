@@ -4,12 +4,12 @@
 <h3>My Projects</h3>
 <ul dir="auto">
   <li>
-    <a href="https://github.com/areeb90/Crypto-Now">Crypto Now</a>
+    <a href="https://github.com/areeb90/Crypto-Now">Crypto-Now</a>
     , a simple web application which shows the insights of cryptocurrencies in real time.   
     
 </li>
   <li>
-    <a href="https://github.com/areeb90/Prediction-of-Cumulative-Grade-Point-Average-Machine-Learning-CEP">CGPA Predictor</a>
+    <a href="https://github.com/areeb90/Prediction-of-Cumulative-Grade-Point-Average-Machine-Learning-CEP">CGPA-Predictor</a>
     , This project compares 2 ML models for predicting final CGPA using grade point averages from 1st, 2nd, and 3rd Year.   
     
   </li>
