@@ -59,4 +59,9 @@
 
 
 <br />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arbii-xd&show_icons=true&locale=en&layout=compact" alt="arbii-xd" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=areeb90&show_icons=true&locale=en&layout=compact" alt="areeb90" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=areeb90&show_icons=true&locale=en" alt="areeb90" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=areeb90&" alt="areeb90" /></p>
