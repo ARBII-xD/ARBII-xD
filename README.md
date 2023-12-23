@@ -1,43 +1,40 @@
-<h3>Hello!</h3>
-<p>I'm Areeb Bin Azim, a Computer Systems Engineer focused on software development living in Karachi, Pakistan.</p>
-<br />
-<h3>My Projects</h3>
-<ul dir="auto">
-  <li>
-    <a href="https://github.com/areeb90/Crypto-Now">Crypto-Now</a>
-    , a simple web application which shows the insights of cryptocurrencies in real time.   
-    
-</li>
-  <li>
-    <a href="https://github.com/areeb90/Prediction-of-Cumulative-Grade-Point-Average-Machine-Learning-CEP">CGPA-Predictor</a>
-    , This project compares 2 ML models for predicting final CGPA using grade point averages from 1st, 2nd, and 3rd Year.   
-    
-  </li>
-  <li>
-    <a href="https://github.com/areeb90/Study-Ease">Study-Ease</a>
-    , This website is designed to assist students (Intermediate) also check their career interest through multiple quiz assessments. 
-    
-  </li>
-  <li>
-    <a href="https://github.com/areeb90/HOMOFY-eCommerce-web-application">Homofy</a>
-    , is an inventory management website for online shopping with a database to store product information and user/admin management.
-  </li>
-</ul>
+# Hello there! 👋 I'm Areeb Bin Azim
 
-<br/>
-<h3>My Bachelor's Degree Courses at NED University</h3>
-<ul>
-<li>CS-115 Programming Fundamentals</li>
-<li>CS-116 Object Oriented Programming</li>
-<li>CS-218 Data Structures and Algorithms</li>
-<li>CS-222 Database Management System</li>
-<li>CS-326 Software Engineering</li>
-<li>CS-323 Artificial Intelligence</li>
-<li>CS-329 Operating Systems</li>
-<li>CS-324 Machine Learning</li>
-<li>CS-328 Computer Architecture</li>
-<li>CS-433 Internet Computing</li>
-</ul>
+I'm a passionate Computer Systems Engineer focused on software development living in Karachi, Pakistan.
+<br />
+Welcome to my GitHub space, where I showcase my projects and document my learning journey.
+
+
+## My Projects
+
+| Project | Description |
+| --- | --- |
+| [**FYP: CaptureDress**](https://github.com/areeb90) | An AI-based application that recognizes different types of clothing, classifies them according to category and event, and provides outfit suggestions for specific occasions. The project aimed to benefit clothing manufacturers to organize their inventory and consumers to make informed clothing purchases. 
+|| **Skills:** HTML, CSS, Bootstrap, React.js, Streamlit, Exploratory Data Analysis (EDA), ANN/CNN, YOLOv5, VGG19, Flask, Tensorflow |
+| [**Crypto-Now**](https://github.com/areeb90/Crypto-Now) | A simple web application that shows real-time insights into cryptocurrencies. 
+||**Skills:** HTML, CSS, JavaScript, Bootstrap, React.js, REST API |
+| [**CGPA-Predictor**](https://github.com/areeb90/Prediction-of-Cumulative-Grade-Point-Average-Machine-Learning-CEP) | This project compares 2 ML models for predicting the final CGPA using grade point averages from 1st, 2nd, and 3rd Year. 
+||**Skills:** Exploratory Data Analysis (EDA), KNN Regression, Multiple Linear Regression |
+| [**Study-Ease**](https://github.com/areeb90/Study-Ease) | A website designed to assist college students in checking their career interest through multiple quiz assessments. 
+||**Skills:** Node,js, Express.js, Mongodb, React.js |
+| [**Homofy**](https://github.com/areeb90/HOMOFY-eCommerce-web-application) | An inventory management website for online shopping with a database to store product information and user/admin management. 
+||**Skills:**  HTML, CSS, Bootstrap, Node.js, Express.js, MySQL |
+
+
+<br />
+
+## My Bachelor's Degree Courses at NED University of Engineering and Technology
+
+
+| Course Code | Course Name | Course Code | Course Name |
+| --- | --- | --- | --- |
+| **CS-115** | Programming Fundamentals | **CS-116** | Object-Oriented Programming |
+| **CS-218** | Data Structures and Algorithms | **CS-221** | Computer Organization & Design |
+| **CS-222** | Database Management System | **CS-323** | Artificial Intelligence |
+| **CS-324** | Machine Learning | **CS-326** | Software Engineering |
+| **CS-328** | Computer Architecture | **CS-329** | Operating Systems |
+| **CS-432** | Distributed Computing | **CS-433** | Internet Computing |
+| **CS-406** | Computer Engineering Project | **CS-426** | Computer System Security |
 
 
 <br />
